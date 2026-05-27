@@ -19,7 +19,9 @@
         background-size: cover;
         color: #fff;
     }
-    
+    .col-lg-3{
+    margin: 0px;
+}
     .hero-site .interface {
         display: flex;
         align-items: center;
