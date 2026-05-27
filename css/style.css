@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: 'Barlow Consend', sans-serif;
 }
+.col-lg-3{
+    margin-left: 90px;
+}
 h3 {
     color: #fff;
     font-size: 30px;
@@ -277,7 +280,7 @@ section.hero-site {
     padding: 120px, 0px;
 }
 .hero-site .txt-hero h2{
-    font-size: 3.5rem;
+    font-size: 3.2rem;
     line-height: 70px;
     font-weight: 100;
     margin-top: 15rem;
