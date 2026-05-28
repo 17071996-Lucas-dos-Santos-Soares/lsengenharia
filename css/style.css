@@ -668,6 +668,24 @@ section.como-funciona{
     border-radius: 10px;
     transition: box-shadow 0.2s ease-out, transform 0.2s ease-out;
 }
+.card-back-1{
+    background-image:linear-gradient(#00000080, #00000080),url(../images/fundo-sobre.png);
+    background-repeat: no-repeat;
+    background-position: 100%, 100%;
+    background-size: cover;
+}
+.card-back-2{
+    background-image:linear-gradient(#00000080, #00000080),url(../images/air-ia.png);
+    background-repeat: no-repeat;
+    background-position: 100%, 100%;
+    background-size: cover;
+}
+.card-back-3{
+    background-image:linear-gradient(#00000080, #00000080),url(../images/manutencao.png);
+    background-repeat: no-repeat;
+    background-position: 100%, 100%;
+    background-size: cover;
+}
 .card-body:hover{
   box-shadow: #808080 0px 6px 20px;
   transform: translateY(-4px);
@@ -675,13 +693,15 @@ section.como-funciona{
 }
 .card-title{
     font-size: 1.2rem;
-    font-weight: 600;
+    font-weight: 300;
     font-family: "Raleway", sans-serif;
+    color: #fff;
 }
 .card-custom img{
     width: 100%;
     border-radius: 10px;
     object-fit: cover;
+    opacity: 0.8;
 }
 .card p{
     width: 100%;
@@ -690,6 +710,7 @@ section.como-funciona{
     padding: 0 20px;
     line-height: 1.5;
     font-weight: 400;
+    color: #fff;
 }
 .price span{
     font-size: 1.3rem;
