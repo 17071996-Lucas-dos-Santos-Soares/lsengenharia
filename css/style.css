@@ -570,6 +570,7 @@ section.sobre-nos::before{
     font-size: 1.2rem;
     font-weight: 200;
     text-align: left;
+    width: 120%;
 }
 
 .sobre-nos button a{
