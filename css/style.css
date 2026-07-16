@@ -122,7 +122,7 @@ header.rolar i:hover{
 }
 header.rolar .menu-desktop nav ul li a {
     font-size: 13px;
-    color: #000;
+    color: #022755;
 }
 
 header.rolar .btn-contato button{
@@ -570,7 +570,7 @@ section.sobre-nos::before{
     font-size: 1.2rem;
     font-weight: 200;
     text-align: left;
-    width: 120%;
+    width: 105%;
 }
 
 .sobre-nos button a{
