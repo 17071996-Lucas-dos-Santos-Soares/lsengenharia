@@ -89,7 +89,7 @@ header {
     top: 0;
     left: 0;
     transition: all .5s ease-in-out;
-    background: #01163129;
+    background: transparent;
     z-index: 5;
 }
 
@@ -104,7 +104,7 @@ header .logo img {
     max-height: 90px;
     margin-top: -10px;
     margin-left: 453px;
-    border-radius: 27px;
+    border-radius: 20px;
     object-fit: cover;
     padding-left: 10px;
 }
@@ -147,7 +147,7 @@ header.rolar .logo .logo-branca {
 
 header.rolar .logo .logo-preta {
     display: block;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 /* fim menu dinanmico */
 
@@ -262,7 +262,6 @@ header .menu-mobile.abrir{
     height: 80vh;
     border-radius: 10px;
 }
-/* fim menu mobile */
 section.hero-site {
     width: 100%;
     height: 100vh;
@@ -317,7 +316,7 @@ section.hero-site {
     width: 220px;
     height: 60px;
     font-family: "Barlow Condensed", sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 300;
     transition: all 0.2s ease-in-out;
 }
