@@ -346,6 +346,7 @@ section.hero-site {
     box-shadow: rgba(0, 0, 0, 0.3) 0px 5px 15px;
      background-color: #1ebe57;
      color: #f5f5f5;
+     border-bottom: 10px solid rgba(4, 20, 43, 0.5);
 }
 .btn-whatsapp:active {
     transform: translateY(-1px) scale(0.98);
